@@ -1,2 +1,3 @@
 # php-7.0.11-fpm-alpine
-php-fpm 7.0.11 on alpine
+
+with pre-installed extensions iconv, mcrypt, pdo, pdo_mysql, gd.
